@@ -6,7 +6,6 @@ This repository documents Project Guard-Post, a cybersecurity lab project focuse
 hardened HTTP response headers in Nginx.  
 
 The project was deployed in a containerized environment using Docker on Ubuntu Linux, with validation performed via command-line 
-
 inspection and browser testing.
 
 ---
