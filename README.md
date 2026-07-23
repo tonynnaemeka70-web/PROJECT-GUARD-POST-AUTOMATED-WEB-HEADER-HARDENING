@@ -55,3 +55,12 @@ X-Frame-Options: DENY
 X-Content-Type-Options: nosniff
 Content-Security-Policy: default-src 'self';
 
+---
+
+Security Assessment
+Clickjacking → Mitigated with X-Frame-Options
+
+MIME Sniffing → Mitigated with X-Content-Type-Options
+
+Cross-Site Scripting (XSS) → Mitigated with Content-Security-Policy
+
