@@ -1,6 +1,7 @@
  PROJECT GUARD-POST: AUTOMATED WEB HEADER HARDENING
 
  Overview
+ 
 This repository documents Project Guard-Post, a cybersecurity lab project focused on implementing browser-side security controls through  
 hardened HTTP response headers in Nginx.  
 
