@@ -64,3 +64,18 @@ MIME Sniffing → Mitigated with X-Content-Type-Options
 
 Cross-Site Scripting (XSS) → Mitigated with Content-Security-Policy
 
+---
+
+Conclusion
+Project Guard-Post demonstrates practical SOC Analyst skills in:
+
+Docker containerization
+
+Nginx administration
+
+Web application hardening
+
+HTTP security validation techniques
+
+This project highlights my ability to implement defensive security measures and validate them effectively which is the key skills for a SOC Analyst role
+
