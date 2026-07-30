@@ -2,6 +2,7 @@
  PROJECT GUARD-POST: AUTOMATED WEB HEADER HARDENING
 
  Overview
+ 
 This repository documents Project Guard-Post, a cybersecurity lab project focused on implementing browser-side security controls through hardened HTTP response headers in Nginx.  
 The project was deployed in a containerized environment using **Docker** on **Ubuntu Linux**, with validation performed via command-line inspection and browser testing.
 
@@ -45,8 +46,12 @@ The project was deployed in a containerized environment using **Docker** on **Ub
 ---
 Repository Resources
 
-- [Project Report (PDF)](doc/PROJECT%20GUARD-POST_AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
--  [Screenshots Folder](screenshots/)
+ [Project Report (PDF)](doc/PROJECT%20GUARD-POST_AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
+- [Screenshots Folder](screenshots/)
+  - [Docker Pull Screenshot](screenshots/docker_pull.png)
+  - [Directory Structure Screenshot](screenshots/directory_structure.png)
+  - [Headers Validation Screenshot](screenshots/headers_validation.png)
+
 
 
 
