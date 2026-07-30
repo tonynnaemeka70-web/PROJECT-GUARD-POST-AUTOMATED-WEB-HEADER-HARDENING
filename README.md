@@ -47,7 +47,6 @@ The project was deployed in a containerized environment using **Docker** on **Ub
 Repository Resources
 
 - [Project Report (PDF)](doc/PROJECT%20GUARD-POST_%20AUTOMATED%20WEB%20HEADER%20HARDENINGt.pdf)
-- 🖼️ [Screenshots Folder](screenshots/)
 - [Screenshots Folder](screenshots/)
   - [Docker Pull Screenshot](screenshots/docker_pull.png)
   - [Directory Structure Screenshot](screenshots/directory_structure.png)
