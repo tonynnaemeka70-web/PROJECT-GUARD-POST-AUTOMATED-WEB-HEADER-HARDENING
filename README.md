@@ -51,3 +51,9 @@ HTTP/1.1 200 OK
 X-Frame-Options: DENY
 X-Content-Type-Options: nosniff
 Content-Security-Policy: default-src 'self';
+
+Repository Resources
+
+- [Project Report (PDF)](doc/PROJECT-GUARD-POST_AUTOMATED-WEB-HEADER-HARDENINGt.pdf)
+-  [Screenshots Folder](screenshots/)
+
