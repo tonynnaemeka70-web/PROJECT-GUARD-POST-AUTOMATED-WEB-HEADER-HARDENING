@@ -43,6 +43,13 @@ The project was deployed in a containerized environment using **Docker** on **Ub
 6. Validated headers using `curl -I http://localhost:8080`.
 
 ---
+Repository Resources
+
+-  [Project Report (PDF)](doc/PROJECT-GUARD-POST_AUTOMATED-WEB-HEADER-HARDENINGt.pdf)
+-  [Screenshots Folder](screenshots/)
+
+
+
 
  Validation
 Example output confirming active security headers:
@@ -52,8 +59,5 @@ X-Frame-Options: DENY
 X-Content-Type-Options: nosniff
 Content-Security-Policy: default-src 'self';
 
-Repository Resources
 
-- [Project Report (PDF)](doc/PROJECT-GUARD-POST_AUTOMATED-WEB-HEADER-HARDENINGt.pdf)
--  [Screenshots Folder](screenshots/)
 
